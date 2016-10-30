@@ -2,7 +2,7 @@
 layout: post
 title: Hello world Halloween
 categories: [blog ]
-tags: [hello, began，]
+tags: [hello, began, ]
 description: 第一篇博客
 ---
 
