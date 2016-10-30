@@ -6,7 +6,7 @@ header-img: "img/plane.jpg"
 ---
 
 <center>
-    <p><img src="https://raw.githubusercontent.com/wtxdew/wtxdew.github.io/master/img/face.jpg"></p>
+    <p><img src="https://raw.githubusercontent.com/wtxdew/wtxdew.github.io/master/img/face.png"></p>
 </center>
 
 I'm wtxdew. You can find me in sites like facebook/twitter/weibo/Instagram/douban.com with wt_air.
