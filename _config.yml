@@ -22,7 +22,7 @@ twitter_username: wt_air
 github_username: wtxdew
 facebook_username: wt_air
 weibo_username: wt_air
-zhihu_username: wtxdew
+zhihu_username: wu-tong-77-10
 
 # Build settings
 # use Github Flavored Markdown !important
@@ -57,7 +57,7 @@ defaults:
       header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
-# Comments 
+# Comments
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-66863061-1
