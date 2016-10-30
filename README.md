@@ -1,7 +1,6 @@
-# Stardust 星塵
+# Microdust 微尘
 
-This is a blog created by wt_air.
-http://wtxdew.me
+This is a blog created by Azeril. The blog is live at [azeril.me](http://azeril.me/).
 
 ## Thanks
 
@@ -16,3 +15,12 @@ The blog used many tool/service,many thanks to:
 * [Duoshuo](http://duoshuo.com/), a socialization comments plugin.
 * [Google](http://google.com), the one who tell me how to make it.
 * …
+
+## How To Creat A Jekyll Blog
+
+[Build-Your-First-GitHub-Pages-Blog](http://azeril.me/blog/Build-Your-First-GitHub-Pages-Blog.html)
+
+Build your blog Step by step
+## Just write
+
+Start writing now！
