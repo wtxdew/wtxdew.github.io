@@ -1,3 +1,11 @@
+---
+layout: post
+title: Hello world Halloween?
+categories: blog
+tags: [hello, began]
+description: 
+---
+
 <center>
 #Hello world
 </center>
@@ -13,10 +21,10 @@
 最後再附上我的blog的QRcode:
 
 <center>
-<a href="http://i.imgur.com/9I0AbAX.png" title="Logo" width="100"/><img src="http://i.imgur.com/9I0AbAX.png" title="Logo" width="100"/>
+<a href="http://i.imgur.com/9I0AbAX.png" title="Logo" width="100"/><img src="http://i.imgur.com/9I0AbAX.png" title="Logo" width="100"/></a>
 </center>
 
-
-
-
 [Tags]: http://azeril.me
+
+***
+剛才太激動，一不小心就忘記添加最開始的博文代碼了QAQ。現在一下子就兩點了，不管怎樣晚安。
