@@ -16,5 +16,5 @@ I'm wtxdew. You can find me in sites like facebook/twitter/weibo/Instagram/douba
 > Live long and prosper
 
 <center>
-    <p><img src="https://raw.githubusercontent.com/wtxdew/wtxdew.github.io/master/img/QRcode" align="center"></p>
+    <p><img src="https://raw.githubusercontent.com/wtxdew/wtxdew.github.io/master/img/QR%20code.png" align="center"></p>
 </center>
