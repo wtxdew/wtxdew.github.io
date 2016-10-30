@@ -13,7 +13,7 @@
 最後再附上我的blog的QRcode:
 
 <center>
-<a href="http://i.imgur.com/9I0AbAX.png" title="Logo" width="100"/><img src="http://i.imgur.com/9I0AbAX.png" title="Logo" width="100"/></a>
+<a href="http://i.imgur.com/9I0AbAX.png" title="Logo" width="100"/><img src="http://i.imgur.com/9I0AbAX.png" title="Logo" width="100"/>
 </center>
 
 
