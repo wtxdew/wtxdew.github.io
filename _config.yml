@@ -1,14 +1,14 @@
 # Site settings
 title: Stardust
 header-img: "img/autumn2.jpg"
-tagline: "生如星塵"  
-description: "人的一生正如星塵 虛幻縹緲"  
+tagline: "生如星塵"
+description: "人的一生正如星塵 虛幻縹緲"
 baseurl: ""
-url: "http://wtxdew.me"  
+url: "http://wtxdew.me"
 #url: "http://localhost:4000"
 
 # About/contact
-owner: 
+owner:
   name: "wtxdew"
   email: wt_air@icloud.cn
   bio: "鷹風凋晚葉，蟬露泣秋枝"
@@ -18,21 +18,21 @@ gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.ico
 
 douban_username: wt_air
-twitter_username: wt_air    
-github_username: wtxdew  
-facebook_username: wt_air   
-weibo_username: wt_air    
-zhihu_username: wt_air  
+twitter_username: wt_air
+github_username: wtxdew
+facebook_username: wt_air
+weibo_username: wt_air
+zhihu_username: wtxdew
 
-# Build settings  
-# use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
+# Build settings
+# use Github Flavored Markdown !important
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 kramdown:
   input: GFM
 highlighter: rouge
 
-gems: 
+gems:
 - jekyll-gallery-generator
 - jekyll-paginate
 permalink: none
@@ -48,7 +48,7 @@ timezone: Asia/Shanghai
 # Defaults for posts
 defaults:
   -
-    scope: 
+    scope:
       path: ""
       type: "posts"
     values:
@@ -58,12 +58,6 @@ defaults:
 
 
 # Comments 
-comments :
-  provider : duoshuo
-  duoshuo :
-    short_name : Azeril
-  disqus :
-      short_name : Azeril
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-66863061-1
