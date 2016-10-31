@@ -1,3 +1,2 @@
-#Stardust 星塵
-### the blog of wtxdew
-link to http://wtxdew.me
+#蟬葉居
+### the blog of [wtxdew](http://wtxdew.me)
