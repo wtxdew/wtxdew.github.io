@@ -1,17 +1,17 @@
 # Site settings
-title: 敗家
+title: 敗家事務所
 header-img: "img/autumn2.jpg"
-tagline: "生如星塵"
-description: "人的一生正如星塵 虛幻縹緲"
+tagline: ""
+description: "千金散盡還復來！"
 baseurl: ""
 url: "http://wtxdew.me"
 #url: "http://localhost:4000"
 
 # About/contact
 owner:
-  name: "wtxdew"
+  name: "秋蟬"
   email: wt_air@icloud.cn
-  bio: "鷹風凋晚葉，蟬露泣秋枝"
+  bio: ""
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
