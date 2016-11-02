@@ -1,15 +1,15 @@
 # Site settings
-title: 敗家事務所
+title: 蟬葉居
 header-img: "img/autumn2.jpg"
-tagline: ""
-description: "千金散盡還復來！"
+tagline: "秋蟬的心路分享"
+description: "包括但不限於鋼筆、墨水、蘸水筆、小提琴、塔羅、動漫、TRPG、COC、MAC的經驗分享。細數下來我的興趣還真是多呢XD"
 baseurl: ""
 url: "http://wtxdew.me"
 #url: "http://localhost:4000"
 
 # About/contact
 owner:
-  name: "秋蟬"
+  name: "敗家秋蟬"
   email: wt_air@icloud.cn
   bio: ""
 
