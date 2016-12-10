@@ -1,68 +1,118 @@
-# Site settings
-title: 蟬葉居
-header-img: "img/autumn2.jpg"
-tagline: "秋蟬的心路分享"
-description: "包括但不限於鋼筆、墨水、蘸水筆、小提琴、塔羅、動漫、TRPG、COC、MAC的經驗分享。細數下來我的興趣還真是多呢XD"
-baseurl: ""
-url: "http://wtxdew.me"
-#url: "http://localhost:4000"
+# when running hexo in a subdirectory (e.g. domain.tld/blog), remove leading slashes ( "/archives" -> "archives" )
+menu:
+  home: /
+  categories: /categories
+  archives: /archives
+  tags: /tags
+  about: /about
+  #commonweal: /404.html
 
-# About/contact
-owner:
-  name: "敗家秋蟬"
-  email: wt_air@icloud.com
-  bio: ""
+# Place your favicon.ico to /source directory.
+favicon: /favicon.ico
 
-# Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.ico
+# Set default keywords (Use a comma to separate)
+keywords: "Hexo,next"
 
-douban_username: wt_air
-twitter_username: wt_air
-github_username: wtxdew
-facebook_username: wt_air
-weibo_username: wt_air
-zhihu_username: wu-tong-77-10
+# Set rss to false to disable feed link.
+# Leave rss as empty to use site's feed link.
+# Set rss to specific value if you have burned your feed already.
+rss:
 
-# Build settings
-# use Github Flavored Markdown !important
-# document: http://jekyllrb.com/docs/configuration/#kramdown
-markdown: kramdown
-kramdown:
-  input: GFM
-highlighter: rouge
+# Icon fonts
+# Place your font into next/source/fonts, specify directory-name and font-name here
+# Avialable: default | linecons | fifty-shades | feather
+icon_font: default
+#icon_font: fifty-shades
+#icon_font: feather
+#icon_font: linecons
 
-gems:
-- jekyll-gallery-generator
-- jekyll-paginate
-permalink: none
-paginate: 8
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
-
-# Title
+# Code Highlight theme
+# Available value: normal | night | night eighties | night blue | night bright
+# https://github.com/chriskempson/tomorrow-theme
+highlight_theme: night
 
 
-# Defaults for posts
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "wtxdew"
-      header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
+# MathJax Support
+mathjax:
 
 
-# Comments
+# Schemes
+scheme: Mala
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
 
-# Links to include in footer navigation
+# Sidebar, available value:
+#  - post    expand on posts automatically. Default.
+#  - always  expand for all pages automatically
+#  - hide    expand only when click on the sidebar toggle icon.
+sidebar: post
+#sidebar: always
+#sidebar: hide
+
+
+# Automatically scroll page to section which is under <!-- more --> mark.
+scroll_to_more: true
+
+
+# Automatically add list number to toc.
+toc_list_number: true
+
+# Automatically Excerpt
+auto_excerpt:
+  enable: true
+  length: 150
+
+# Use Lato font
+# Note: this option is avialable only when the language is not `zh-Hans`
+use_font_lato: true
+
+# Make duoshuo show UA
+# user_id must NOT be null when admin_enable is true!
+# you can visit http://dev.duoshuo.com get duoshuo user id.
+duoshuo_info: # give up duoshuo
+  ua_enable: false
+  admin_enable: false
+  user_id: 0
+
+# share server
+# JiaThis share
+jiathis: false
+
+# duoshuo share
+duoshuo_share: false # give up duoshuo
+# duoshuo hot artical
+duoshuo_hotartical: false # give up duoshuo
+
+# baidu share
+baidu_share: true
+
+## DO NOT EDIT THE FOLLOWING SETTINGS
+## UNLESS YOU KNOW WHAT YOU ARE DOING
+
+# Use velocity to animate everything.
+use_motion: true
+
+# Fancybox
+fancybox: true
+
+# Some suprise plugs
+suprise:
+  ball: true
+
+# donate
+donate:
+  enable: true
+  text: 仅仅是一个功能
+  wechat: http://o7keinrz4.bkt.clouddn.com/wechat.jpg
+  alipay: http://o7keinrz4.bkt.clouddn.com/alipay.jpg
+
+# 不蒜子统计
+busuanzi: false
+
+# Static files
+vendors: vendors
+css: css
+js: js
+images: images
+
+# Theme version
+version: 0.4.5.1
