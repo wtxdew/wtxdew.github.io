@@ -1,15 +1,15 @@
 # Site settings
-title: 蟬葉居
+title: TTT
 
-tagline: "秋蟬的心路分享"
-description: "包括但不限於鋼筆、墨水、蘸水筆、小提琴、塔羅、動漫、TRPG、COC、MAC的經驗分享。細數下來我的興趣還真是多呢XD"
+tagline: "FFF"
+description: "DDD"
 baseurl: ""
-url: "http://wtxdew.me"
+url: "http://wtxdew.github.io"
 #url: "http://localhost:4000"
 
 # About/contact
 owner:
-  name: "敗家秋蟬"
+  name: "wutong"
   email: wt_air@icloud.com
   bio: ""
 

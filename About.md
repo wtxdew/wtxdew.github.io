@@ -9,7 +9,7 @@ header-img: "img/plane.jpg"
     <p><img src=""></p>
 </center>
 
-I'm wtxdew. You can find me in sites like facebook/twitter/weibo/Instagram/douban.com with wt_air.
+I'm W. You can find me in sites like facebook/twitter/weibo/Instagram/douban.com with wt_air.
 
 喜歡折騰新事物，比如說你現在正在看的這個blog，以及你能在這個blog上看到的所有東西。
 
