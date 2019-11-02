@@ -1,68 +1,30 @@
-# Site settings
-title: TTT
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:year/:month/:day/:title.html
 
-tagline: "FFF"
-description: "DDD"
-baseurl: ""
-url: "http://wtxdew.github.io"
-#url: "http://localhost:4000"
+# Setup
+title:               I can't study physics
+tagline:             'Suna の house'
+description:         '一個會放些有的沒的無聊的blog，其實我只當雲端用'
+url:                 https://wtxdew.github.io
+baseurl:             ''
+
+paginate:            5
+paginate_path: "blog/page:num"
 
 # About/contact
-owner:
-  name: "wutong"
-  email: wt_air@icloud.com
-  bio: ""
+author:
+  name:              wtxdew
+  url:               https://twitter.com/wt_air
+  email:             wt_air@icloud.com
 
-# Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.ico
+# Custom vars
+version:             1.0.0
 
-douban_username: wt_air
-twitter_username: wt_air
-github_username: wtxdew
-facebook_username: wt_air
-weibo_username: wt_air
-zhihu_username: wu-tong-77-10
-
-# Build settings
-# use Github Flavored Markdown !important
-# document: http://jekyllrb.com/docs/configuration/#kramdown
-markdown: kramdown
-kramdown:
-  input: GFM
-highlighter: rouge
-
-gems:
-- jekyll-gallery-generator
+plugins:
 - jekyll-paginate
-permalink: none
-paginate: 8
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+- jekyll-gist
+- jekyll-sitemap
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
-
-# Title
-
-
-# Defaults for posts
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "wtxdew"
-      header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
-
-
-# Comments
-
-# Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Links to include in footer navigation
+encoding : utf-8

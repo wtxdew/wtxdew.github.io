@@ -1,20 +1,13 @@
 ---
 layout: page
-title: "About"
-description: "嘿，你總算找到我啦"
-header-img: "img/plane.jpg"
+title: About
+description: 切 被你發現了
 ---
 
-<center>
-    <p><img src=""></p>
-</center>
+#### 不要亂翻，你以為這是你家嗎
 
-I'm W. You can find me in sites like facebook/twitter/weibo/Instagram/douban.com with wt_air.
+你以為這是我的blog？其實是我的雲端檔案夾da！   
+既然被你發現了，那就獎勵你隨便看看吧。
 
-喜歡折騰新事物，比如說你現在正在看的這個blog，以及你能在這個blog上看到的所有東西。
 
 > Live long and prosper
-
-<center>
-    <p><img src="https://raw.githubusercontent.com/wtxdew/wtxdew.github.io/master/img/QR%20code.png" align="center"></p>
-</center>
