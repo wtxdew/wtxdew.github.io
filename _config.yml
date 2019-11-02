@@ -8,7 +8,7 @@ title:               I can't study physics
 tagline:             'Suna の house'
 description:         '一個會放些有的沒的無聊的blog，其實我只當雲端用'
 url:                 https://wtxdew.github.io
-baseurl:             ''
+baseurl:             '/'
 
 paginate:            5
 paginate_path: "blog/page:num"
@@ -19,6 +19,17 @@ author:
   url:               https://twitter.com/wt_air
   email:             wt_air@icloud.com
 
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  extensions: [ "fenced_code_blocks", "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
+
+sass:
+    sass_dir: _sass
+    style: :compressed
+
 # Custom vars
 version:             1.0.0
 
@@ -26,5 +37,7 @@ plugins:
 - jekyll-paginate
 - jekyll-gist
 - jekyll-sitemap
+
+timezone: Asia/Taipei
 
 encoding : utf-8
