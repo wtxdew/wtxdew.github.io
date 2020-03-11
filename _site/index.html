@@ -11,7 +11,7 @@
 
   <title>
     
-      I cant study physics &middot; Suna の house
+      I can't study physics &middot; Suna の house
     
   </title>
 
@@ -43,8 +43,8 @@
   </div>
 
   <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
 
-    <a class="sidebar-nav-item" href="/">HOME</a>
 
     
 
@@ -75,6 +75,10 @@
       
     
       
+        
+      
+    
+      
     
       
     
@@ -90,7 +94,7 @@
         <a href="https://twitter.com/wt_air"><i class="fa fa-twitter fa-2x"></i></a>
     </p>
     <p>
-      &copy; 2019. All rights reserved.
+      &copy; 2020. All rights reserved.
     </p>
   </div>
 </div>
@@ -102,7 +106,7 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="/" title="Home">I cant study physics</a>
+            <a href="/" title="Home">I can't study physics</a>
             <small>Suna の house</small>
           </h3>
         </div>
@@ -114,19 +118,20 @@
 
     
       
-      <h1 class='post-title'><a href="/2019/11/02/hw2.html">Statical HW2</a>
+      <h1 class='post-title'><a href="/2020/02/04/Root_Note.html">Root Note</a>
       </h1>
-      <span class='post-date'> &raquo; November 02, 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Statistic</span>
-      <a href="/2019/11/02/hw2.html" class="post-content">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#1: COVARIANCE AND CORRELATION
+      <span class='post-date'> &raquo; February 04, 2020&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code</span>
+      <a href="/2020/02/04/Root_Note.html" class="post-content">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TChain &amp; Form
 
-code:
+TChain *tr = new TChain("T");
+for (Int_t i=0; i&lt;10; i++)
+    tr-&gt;Add( Form("file%d.root",i) );
 
-{
-    TFile* f1 = new TFile("exercise_01.root");
-    TNtupleD* nt = (TNtupleD*)f1-&gt;Get("nt");
 
-    double...
+hadd
+
+hadd output.root in...
       <hr>
       </a>
       
