@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Developing Emulators
-tags: Emulators, code
+tags: Emulators
 description: The beginning of emulators' development.
 category: Emulators
-comments: true
 ---
 
 ## The Beginning
@@ -17,13 +16,9 @@ This project is not an easy job, thus I plan to learn how to develop emulators s
 
 ## News
 
-<h3 align= right>Jul 18, 2010</h3>
+<h3 style="text-align: right">Jul 18, 2010</h3>
 
 I heard Chip-8 is the easiest emulation project due to the small number of opcodes (only 35 in total). So I plan to do this first, and then maybe I will try the NES emulator.
 
 - [ ] Chip-8 emulator
-
 - [ ] NES emulator
-
-
-
