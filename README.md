@@ -1,1 +1,1 @@
-[砂の家](https://wtxdew.github.io)
+[I can't Study Physics](https://wtxdew.github.io)
