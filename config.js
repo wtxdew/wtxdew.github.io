@@ -152,6 +152,10 @@ const CONFIG = {
 					name: 'KEKCC Support',
 					link: 'https://kekcc.kek.jp/service/kekcc/support/en/',
 				},
+				{
+					name: 'RUN Homepage',
+					link: 'https://justice.hep.sci.osaka-u.ac.jp/run40/',
+				},
 			],
 		},
 		{
@@ -166,6 +170,10 @@ const CONFIG = {
 					name: 'ChatGPT',
 					link: 'https://chat.openai.com',
 				},
+                {
+                    name: 'Anime',
+                    link: 'https://ani.gamer.com.tw',
+                },
 				{
 					name: 'Tako Time',
 					link: 'https://www.youtube.com/@NinomaeInanis',
