@@ -83,10 +83,10 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Twitch',
-			icon: 'twitch',
-			link: 'https://www.twitch.tv',
-		},
+			name: 'QoL',
+			icon: 'book-marked',
+			link: 'https://noisy-mozzarella-d5d.notion.site/QoL-Improvement-List-aa9e4ca2635d4f97ae87c0eeb18e4a56?pvs=4',
+		},  
 	],
 
 	secondButtonsContainer: [
