@@ -49,7 +49,7 @@ const CONFIG = {
 	// ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
 	// ├┴┐│ │ │  │ │ ││││└─┐
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
-
+	// https://lucide.dev/icons/
 	firstButtonsContainer: [
 		{
 			id: '1',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'QoL',
-			icon: 'book-marked',
-			link: 'https://noisy-mozzarella-d5d.notion.site/QoL-Improvement-List-aa9e4ca2635d4f97ae87c0eeb18e4a56?pvs=4',
+			name: 'Hpoi',
+			icon: 'toy-brick',
+			link: 'https://www.hpoi.net',
 		},  
 	],
 
