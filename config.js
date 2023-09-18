@@ -175,8 +175,8 @@ const CONFIG = {
                     link: 'https://ani.gamer.com.tw',
                 },
 				{
-					name: 'Tako Time',
-					link: 'https://www.youtube.com/@NinomaeInanis',
+					name: 'Netflix',
+					link: 'https://www.netflix.com',
 				},
 				{
 					name: 'DoDoDo Town',
