@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Messages',
 			icon: 'message-circle',
-			link: 'https://www.messenger.com/',
+			link: 'https://www.facebook.com/messages/',
 		},
 		{
 			id: '5',
