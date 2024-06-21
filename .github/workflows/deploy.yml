@@ -20,4 +20,6 @@ jobs:
 
     - name: Deploy to server
       run: |
-        ssh -o "StrictHostKeyChecking=no" tong@hep1.phys.ntu.edu.tw "cd /home/hep/tong/public_html/homepage && git pull"
+        # ssh -o "StrictHostKeyChecking=no" tong@hep1.phys.ntu.edu.tw "cd /home/hep/tong/public_html/homepage && git pull"
+        ssh -o "StrictHostKeyChecking=no" -o "HostKeyAlgorithms=+ssh-rsa" tong@hep1.phys.ntu.edu.tw "cd /home/hep/tong/public_html/homepage && git pull && git pull origin main && your_deploy_commands_here"
+
