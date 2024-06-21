@@ -21,10 +21,10 @@ jobs:
     - name: Deploy to server
       uses: appleboy/ssh-action@v1.0.3
       with:
-      host: hep1.phys.ntu.edu.tw
-      username: tong
-      key: ${{ secrets.DEPLOY_KEY }}
-      port: 22
-      script: |
-        cd /home/hep/tong/public_html/homepage
-        git pull
+        host: hep1.phys.ntu.edu.tw
+        username: tong
+        key: ${{ secrets.DEPLOY_KEY }}
+        port: 22
+        script: |
+          cd /home/hep/tong/public_html/homepage
+          git pull
