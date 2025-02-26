@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://hep1.phys.ntu.edu.tw/cgi-bin/openwebmail/openwebmail.pl',
+			name: 'Discord',
+			icon: 'bot-message-square',
+			link: 'https://discord.com/channels/@me',
 		},
 		{
 			id: '3',
@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Messages',
-			icon: 'message-circle',
+			icon: 'facebook',
 			link: 'https://www.facebook.com/messages/',
 		},
 		{
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Hpoi',
-			icon: 'toy-brick',
+			icon: 'cat',
 			link: 'https://www.hpoi.net',
 		},  
 	],
