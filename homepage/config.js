@@ -141,8 +141,8 @@ const CONFIG = {
 					link: 'https://krs.kek.jp/uskek/ui/UI_00000E.do',
 				},
 				{
-			        name: 'KEK Indico',
-                    link: 'https://kds.kek.jp/category/74/',
+			        	name: 'KEK Indico',
+                   			link: 'https://kds.kek.jp/category/74/',
 				},
 				{
 					name: 'Indico Search',
@@ -163,25 +163,25 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
+					name: 'ChatGPT',
+					link: 'https://chat.openai.com',
+				},
+				{
+					name: 'Gemini',
+					link: 'https://gemini.google.com/app',
+				},
+				{
+			                name: 'Claude',
+			                link: 'https://claude.ai',    
+			        },
+				{
 					name: 'DeepL',
 					link: 'https://www.deepl.com/translator',
 				},
 				{
-					name: 'ChatGPT',
-					link: 'https://chat.openai.com',
-				},
-                {
-                    name: 'Anime',
-                    link: 'https://ani.gamer.com.tw',
-                },
-				{
-					name: 'Netflix',
-					link: 'https://www.netflix.com',
-				},
-				{
-					name: 'DoDoDo Town',
-					link: 'https://www.youtube.com/@TsunomakiWatame',
-				},
+					name: 'Max',
+					link: 'https://play.max.com/',
+				},				
 			],
 		},
 	],
