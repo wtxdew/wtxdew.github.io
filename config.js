@@ -163,23 +163,23 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'ChatGPT',
-					link: 'https://chat.openai.com',
-				},
-				{
 					name: 'Gemini',
 					link: 'https://gemini.google.com/app',
 				},
 				{
-			                name: 'Claude',
-			                link: 'https://claude.ai',    
-			        },
-				{
-					name: 'DeepL',
-					link: 'https://www.deepl.com/translator',
+			        name: 'Claude',
+			    	link: 'https://claude.ai',    
 				},
 				{
-					name: 'Max',
+					name: 'Netflix',
+					link: 'https://www.Netflix.com',
+				},
+				{
+					name: 'Disney+',
+					link: 'https://www.disneyplus.com',
+				},
+				{
+					name: 'HBO Max',
 					link: 'https://play.max.com/',
 				},				
 			],
