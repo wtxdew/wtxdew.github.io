@@ -137,6 +137,60 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
+					name: 'Gemini',
+					link: 'https://gemini.google.com/app',
+				},
+				{
+			        name: 'Claude',
+			    	link: 'https://claude.ai',    
+				},
+				{
+			        name: 'ChatGPT',
+			    	link: 'https://chatgpt.com/',    
+				},				
+				{
+			        name: 'DeepSeek',
+			    	link: 'https://chat.deepseek.com/',    
+				},
+				
+			],
+		},
+		{
+			icon: 'coffee',
+			id: '2',
+			links: [
+
+				{
+					name: 'Netflix',
+					link: 'https://www.Netflix.com',
+				},
+				{
+					name: 'Disney+',
+					link: 'https://www.disneyplus.com',
+				},
+				{
+					name: 'HBO Max',
+					link: 'https://play.max.com/',
+				},	
+				{
+					name: '動畫瘋',
+					link: 'https://ani.gamer.com.tw/',
+				},			
+				{
+					name: 'zashboard'
+					link:http://192.168.10.1:9090/ui/zashboard/#/proxies
+				},
+			],
+		},
+	],
+
+	// Second Links Container
+	secondListsContainer: [
+		{
+			icon: 'clipboard-list',
+			id: '1',
+			links: [
+				{
 					name: 'KEK User',
 					link: 'https://krs.kek.jp/uskek/ui/UI_00000E.do',
 				},
@@ -155,58 +209,6 @@ const CONFIG = {
 				{
 					name: 'RUN Homepage',
 					link: 'https://justice.hep.sci.osaka-u.ac.jp/run40/',
-				},
-			],
-		},
-		{
-			icon: 'coffee',
-			id: '2',
-			links: [
-				{
-					name: 'Gemini',
-					link: 'https://gemini.google.com/app',
-				},
-				{
-			        name: 'Claude',
-			    	link: 'https://claude.ai',    
-				},
-				{
-					name: 'Netflix',
-					link: 'https://www.Netflix.com',
-				},
-				{
-					name: 'Disney+',
-					link: 'https://www.disneyplus.com',
-				},
-				{
-					name: 'HBO Max',
-					link: 'https://play.max.com/',
-				},				
-			],
-		},
-	],
-
-	// Second Links Container
-	secondListsContainer: [
-		{
-			icon: 'binary',
-			id: '1',
-			links: [
-				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
-				},
-				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
-				},
-				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
-				},
-				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
 				},
 			],
 		},
