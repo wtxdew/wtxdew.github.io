@@ -177,8 +177,8 @@ const CONFIG = {
 					link: 'https://ani.gamer.com.tw/',
 				},			
 				{
-					name: 'zashboard'
-					link:http://192.168.10.1:9090/ui/zashboard/#/proxies
+					name: 'zashboard',
+					link: 'http://192.168.10.1:9090/ui/zashboard/#/proxies',
 				},
 			],
 		},
