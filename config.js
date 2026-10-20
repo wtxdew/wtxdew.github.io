@@ -152,7 +152,10 @@ const CONFIG = {
 			        name: 'DeepSeek',
 			    	link: 'https://chat.deepseek.com/',    
 				},
-				
+				{
+			        name: 'Cloudflare',
+			    	link: 'https://dash.cloudflare.com/',    
+				},
 			],
 		},
 		{
